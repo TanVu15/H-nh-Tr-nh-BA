@@ -8,6 +8,9 @@ Chào mừng bạn đến với **"Business Analyst Playbook"** — nơi tôi l�
 
 Trong quá trình học tập để trở thành BA mình sẽ ghi lại những kiến thức cô đọng lại và những cái mình thấy hay. 
 Việc này giúp mình sẽ hệ thống lại kiến thức để nhớ lâu hơn và vững chắc hơn. Các bạn cũng có thể tham khảo nhé!
+Playbook này mình chủ yếu tham khảo của anh Thịnh ở trang này:https://thinhnotes.com/tuyen-tap-cac-notes-ve-business-analyst/
+Mình sẽ cô đọng lại những điều quan trọng và tâm đắc khi học từ trang web của anh Thịnh các bạn có thể ghé web của để xem full.
+> *"Một lần cô đọng là thêm một lần nhớ"*
 
 ---
 
